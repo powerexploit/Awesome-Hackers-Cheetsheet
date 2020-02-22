@@ -6,7 +6,7 @@ So here are some special and some sensitive git commands.
 ## **Installtion Of Git Vcs:**
 Installation of git vcs is very simple I am explaining in following steps.
     
-**Windows:**
+### **Windows:**
 * Steps:
   * Download git vcs from https://git-scm.com/downloads
   * Install git.exe in windows
@@ -20,22 +20,20 @@ Installation of git vcs is very simple I am explaining in following steps.
                   <command> [<args>]
 	```
 
-**Linux\Ubuntu:**
-  Git vcs is automatically installed in all linux flavour but in **ubuntu** you need to install git vcs in following ways.
+### **Linux\Ubuntu:**
+Git vcs is automatically installed in all linux flavour but in **ubuntu** you need to install git vcs in following ways.
 * Steps:
   * Open your terminal
   * Run sudo apt install git
+
         ```
-        powerexploit@localhost:~$ sudo apt install git
+        root@localhost:~$ sudo apt install git
         ```
+
   * Then Run git command
+
         ```
-        powerexploit@localhost:~$ git
-        usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
-                   [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-                   [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-                   [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-                    <command> [<args>]
+        root@localhost:~$ git
         ```
 
 
