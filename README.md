@@ -2,7 +2,7 @@
 Hacker-CheetSheet is a Open Source CheetSheet for hackers and Pentesters. Hacker-CheetSheet contains cheetsheet related to **Nse** , **regex** , **git** , **Redhat-Linux** , **Ubuntu** , **Powershell**, **Kali-Linux** , **Windows-Command-Line**.
 > **Think Like as a Hacker.**
 
-## [kali-linux-cheetsheet](https://github.com/ankitdobhal/Hackers-Cheetsheet/kali-linux-cheetsheet.md)
+## [kali-linux-cheetsheet](https://github.com/ankitdobhal/Hackers-Cheetsheet/blob/master/kali-linux-cheetsheet.md)
 Kali Linux is a operating System Designed specially for Hackers and Pentesters,it is both Gui and Cli Operating system.
 **Kali-Linux-cheetsheet** contains some basic commands and several Pentesting Tools Commands which is generally used by pentesters in day to day tasks.
 
