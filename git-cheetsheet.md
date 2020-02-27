@@ -72,6 +72,37 @@ Git vcs is automatically installed in all linux flavour but in **ubuntu** you ne
     ```
     
     ```
-    root@kali:~$/Hack$ git config --global user.email "email_of_the_git_user"
+    root@kali:~/Hack$ git config --global user.email "email_of_the_git_user"
     ```
-   
+ * Git command To check The Status Of Your repo:
+   * What is fit status?
+     * Git status is used to check 
+
+
+    ```
+    root@kali:~/Hack$ git status
+    ```
+
+ * Git push/pull command:
+   * What is git push?
+     * git push command is used to push the code in your github repository.
+   * What is git pull?
+     * git pull command
+
+    ```
+    root@kali:~/Hack$ git push origin master
+    root@kali:~/Hack$ git pull
+    ```
+#### **What is master is above command?**
+Its a very neccessary concept for beginners in git and open source , **master** is a branch in your code repositry. **Branch** is just like a container of your current commits.
+
+     ```
+     root@kali:~/Hack$ # Git command to check your current branch
+     root@kali:~/Hack$ git branch
+     ```
+ * Git command to check status of your repo:
+    ```
+    root@kali:~/Hack$ git status
+    ```
+
+
