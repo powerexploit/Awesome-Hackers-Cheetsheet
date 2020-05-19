@@ -93,7 +93,7 @@ Git vcs is automatically installed in all linux flavour but in **ubuntu** you ne
     root@kali:~/Hack$ git push origin master
     root@kali:~/Hack$ git pull
     ```
-#### **What is master is above command?**
+##### **What is master is above command?**
 Its a very neccessary concept for beginners in git and open source , **master** is a branch in your code repositry. **Branch** is just like a container of your current commits.
 
      ```
