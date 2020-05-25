@@ -11,3 +11,10 @@
 | sudo apt-get check | autoremove |
 | sudo apt-get update | remove any orphaned packages |
 
+## npm 
+
+| Command | Action                                        | 
+| ------ | ---------------------------------------------- |
+| npm init | Initiate the npm with package.json |
+| npm install <pkg name> | Installs the package |
+| npm remove <pkg name> | Remove package |
