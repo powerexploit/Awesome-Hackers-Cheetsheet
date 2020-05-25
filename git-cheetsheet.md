@@ -75,8 +75,8 @@ Git vcs is automatically installed in all linux flavour but in **ubuntu** you ne
     root@kali:~/Hack$ git config --global user.email "email_of_the_git_user"
     ```
  * Git command To check The Status Of Your repo:
-   * What is fit status?
-     * Git status is used to check 
+   * What is git status?
+     * Git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git.
 
 
     ```
@@ -87,7 +87,7 @@ Git vcs is automatically installed in all linux flavour but in **ubuntu** you ne
    * What is git push?
      * git push command is used to push the code in your github repository.
    * What is git pull?
-     * git pull command
+     * git pull command is a Git command used to update the local version of a repository from a remote
 
     ```
     root@kali:~/Hack$ git push origin master
